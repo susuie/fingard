@@ -1,26 +1,26 @@
 {
-  "name": "coderwhy",
-  "version": "1.1.0",
+  "name": "fingard",
+  "version": "1.0.0",
   "description": "CLI front-end development tools",
   "main": "index.js",
   "bin": {
-    "coderwhy": "index.js"
+    "fingard": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "vue",
-    "react",
+    "fingard",
     "CLI",
     "component"
   ],
-  "author": "coderwhy",
+  "author": "susie",
   "license": "MIT",
-  "homepage": "https://github.com/coderwhy/coderwhy",
+  "homepage": "https://github.com/susuie/fingard",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coderwhy/coderwhy"
+    "url": "https://github.com/susuie/fingard"
   },
   "dependencies": {
     "chalk": "^4.1.0",
