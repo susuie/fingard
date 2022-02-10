@@ -7,7 +7,8 @@
     "fingard": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "node --inspect server.js"
   },
   "keywords": [
     "vue",
@@ -27,7 +28,8 @@
     "commander": "^6.1.0",
     "download-git-repo": "^3.0.2",
     "ejs": "^3.1.5",
-    "open": "^7.3.0",
-    "fs-extra": "^10.0.0"
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "open": "^7.3.0"
   }
 }
